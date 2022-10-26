@@ -194,7 +194,7 @@ Advanced Options:
 
   --extension=EXTENSION
 
-    Consider files with specified EXTENSION as modules, this option can used
+    Consider files with specified EXTENSION as modules, this option can be used
     multiple times.
 
   --global-transform=MODULE, -g MODULE
